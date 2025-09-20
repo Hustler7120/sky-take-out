@@ -11,3 +11,7 @@ sky:
     access-key-id: LTAI5tPCmE7wKF3qRKwkJmQx
     access-key-secret: 5ikCNbLwCl25ESXN4sUnNuPbAK0v2s
     bucket-name: sky-take-out-zhenght
+  redis:
+    host: localhost
+    port: 6379
+    database: 10
