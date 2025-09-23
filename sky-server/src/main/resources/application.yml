@@ -44,7 +44,6 @@ sky:
     user-secret-key: itheima
     user-ttl: 720000000
     user-token-name: authentication
-
   alioss:
     endpoint: ${sky.alioss.endpoint}
     access-key-id: ${sky.alioss.access-key-id}
@@ -53,4 +52,12 @@ sky:
   wechat:
     appid: ${sky.wechat.appid}
     secret: ${sky.wechat.secret}
+  shop:
+    address: 北京市海淀区上地十街10号
+  baidu:
+    ak: mu9sBJb4dokcnLSFch5oihxLhORKHJ2O
+
+
+
+
 
